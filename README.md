@@ -1,1 +1,3 @@
-# EDA-California-dataset
+California Housing Price Prediction - EDA Project Overview An exploratory data analysis (EDA) project to understand factors influencing housing prices in California, using data from the California Housing dataset. This analysis includes visualizations and insights into potential predictors for future modeling.
+
+Key Steps Data Cleaning: Handled missing values and outliers. Exploratory Analysis: Examined feature distributions, correlations, and trends. Visualizations: Used plots to explore relationships between variables. Findings Income and Prices: Strong correlation found between median income and housing prices. Regional Factors: Identified influential factors affecting prices across different regions. Requirements Python 3.8+ Libraries: Pandas, NumPy, Matplotlib, Seaborn Usage Clone this repository and run California_Housing_EDA.ipynb to view the analysis
