@@ -1,3 +1,5 @@
+[👉 Open in Jupyter Notebook](https://nbviewer.org/github/MuhammadAbbas01/EDA-California-dataset/blob/main/EDA_California_Housing.ipynb)
+
 # California Housing Price Prediction - EDA Project
 
 ## Project Overview
