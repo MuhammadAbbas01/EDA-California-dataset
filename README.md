@@ -2,8 +2,6 @@
 
 - [![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MuhammadAbbas01/EDA-California-dataset/blob/main/EDA_California_Housing.ipynb)
 
-- [View this notebook in nbviewer](https://nbviewer.org/github/MuhammadAbbas01/EDA-California-dataset/blob/main/EDA_California_Housing.ipynb)
-
 # California Housing Price Prediction - EDA Project
 
 ## Project Overview
