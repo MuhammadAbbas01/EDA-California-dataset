@@ -1,3 +1,33 @@
-California Housing Price Prediction - EDA Project Overview An exploratory data analysis (EDA) project to understand factors influencing housing prices in California, using data from the California Housing dataset. This analysis includes visualizations and insights into potential predictors for future modeling.
+# California Housing Price Prediction - EDA Project
 
-Key Steps Data Cleaning: Handled missing values and outliers. Exploratory Analysis: Examined feature distributions, correlations, and trends. Visualizations: Used plots to explore relationships between variables. Findings Income and Prices: Strong correlation found between median income and housing prices. Regional Factors: Identified influential factors affecting prices across different regions. Requirements Python 3.8+ Libraries: Pandas, NumPy, Matplotlib, Seaborn Usage Clone this repository and run California_Housing_EDA.ipynb to view the analysis
+## Project Overview
+
+This project is an exploratory data analysis (EDA) focusing on the California Housing dataset. The main goal is to understand factors that influence housing prices in California by examining data trends, distributions, and relationships between variables. Insights gained from this analysis are aimed at identifying key predictors for potential future modeling.
+
+## Key Steps
+
+1. **Data Cleaning**  
+   - Addressed missing values and handled outliers to prepare a clean dataset for analysis.
+
+2. **Exploratory Analysis**  
+   - Analyzed distributions of features, correlations between variables, and observed trends within the dataset.
+
+3. **Visualizations**  
+   - Created visual plots to illustrate relationships among variables, enhancing understanding of influential factors.
+
+## Findings
+
+- **Income and Prices**  
+   - A strong positive correlation was identified between median income and housing prices, suggesting that income is a significant factor in price variations.
+
+- **Regional Factors**  
+   - Certain regional attributes were found to have substantial effects on housing prices across different areas in California.
+
+## Requirements
+
+- **Python**: Version 3.8 or above
+- **Libraries**: 
+  - `Pandas`
+  - `NumPy`
+  - `Matplotlib`
+  - `Seaborn`
