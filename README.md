@@ -32,3 +32,9 @@ This project is an exploratory data analysis (EDA) focusing on the California Ho
   - `NumPy`
   - `Matplotlib`
   - `Seaborn`
+ 
+  - ## 📢 Request for Feedback
+I welcome feedback, suggestions, and reviews for this project.  
+If you find any issues or have suggestions for improvement, feel free to open an issue!
+
+- 🐛 **Open an Issue**: [Click here to report a problem](https://github.com/MuhammadAbbas01/EDA-California-Dataset/issues)
